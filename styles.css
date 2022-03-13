@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(5, 100, 61);
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+a {
+    color:darkslategrey;
+    text-decoration: none;
+    margin: 20px;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.inf {
+    display: flex;
+    margin: 20;
+}
+
+.info{
+    margin: 20;
+}
+
+.inf-text{
+    margin-left: 30px;
+}
+
+.container {
+    max-width: 850px;
+    margin: auto;
+}
+
+.bloc {
+    background: rgb(218, 235, 220);
+    padding: 15px;
+    margin-bottom: 3px;
+    border-width: 600px;
+    border-radius: 15px;
+}
+
+
+
